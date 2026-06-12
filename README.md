@@ -9,8 +9,6 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-**A KrishAI Technologies × Oracle YouTube Tutorial**
-
 *Type plain English → Oracle writes the SQL → Results in seconds*
 
 
